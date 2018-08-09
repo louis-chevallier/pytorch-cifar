@@ -1,0 +1,2 @@
+start :
+	python mcmc.py
