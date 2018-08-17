@@ -1,2 +1,2 @@
 start :
-	python mcmc.py
+	python mcmc.py --batchsize 2000
